@@ -1,0 +1,2 @@
+# wechat_aes_sample_ruby
+微信小程序对称加密数据解密算法，Ruby版实现
